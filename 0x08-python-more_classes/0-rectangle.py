@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Contains a definition for an empty Class Rectangle.
+Contain a definition for an empty Class Rectangle.
 """
 
 
